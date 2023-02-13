@@ -1,0 +1,102 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My toys2",
+      "content": "Border Collies are good family dogs because they like a lot of activity. Busy families will need to include them in their activities, or they can become destructive when bored.",
+      "image": "/src/assets/images/Lulu2.JPG"
+    },
+    {
+      "id": 2,
+      "title": "Day at pool ",
+      "content": "My name is Lulu and I spent all day iin pool. Australian Shepherds are very good with children and tend to get along well with other pets. They have a very easy-going temperament, making them great family pets as well as herding animals.",
+      "image": "/src/assets/images/Lulu8.jpg"
+    },
+    {
+      "id": 3,
+      "image": "/src/assets/images/Lulu6.jpg",
+      "title": "My day in nature",
+      "content": "Goldens are outgoing, trustworthy, and eager-to-please family dogs, and relatively easy to train. They take a joyous and playful approach to life and maintain this puppyish behavior into adulthood."
+    },
+    {
+      "id": 4,
+      "title": "Day at Home",
+      "content": "Miniature dachshunds make for great family pets and are known for their curious nature and sense of humour. They love human interaction and like to be doted on.",
+      "image": "/src/assets/images/Lulu5.jpg"
+    },
+    {
+      "id": 5,
+      "title": "My last trip",
+      "content": "My last trip was to Chroatia. It was soo great ",
+      "image": "/src/assets/images/dog.jpg"
+    },
+    {
+      "id": 6,
+      "title": "My day at pool 2",
+      "content": "I spent all day in Pool. loren ipsum loren ipsum loren ipsumloren ipsum loren ipsum loren ipsum loren ipsum loren ipsum loren ipsum",
+      "image": "/src/assets/images/Lulu3.jpg"
+    },
+    {
+      "id": 7,
+      "title": "hello",
+      "content": "hello my name is John",
+      "image": "https://www.shutterstock.com/image-photo/happy-puppy-dog-smiling-on-260nw-1799966587.jpg"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "author": "Anna",
+      "comment": "I like this",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "author": "Anna",
+      "comment": "I realy like this",
+      "postId": 1
+    },
+    {
+      "id": 3,
+      "author": "Anna",
+      "comment": "I like this",
+      "postId": 2
+    },
+    {
+      "author": "Anna",
+      "comment": "Hi , Thank you for this amazing post",
+      "postId": "2",
+      "id": 4
+    },
+    {
+      "author": "Anna",
+      "comment": "This was fun ",
+      "postId": "4",
+      "id": 5
+    },
+    {
+      "author": "Pēteris",
+      "comment": "Hello, I liked this - thank you",
+      "postId": "6",
+      "id": 6
+    },
+    {
+      "author": "Ana",
+      "comment": "Thank you",
+      "postId": "6",
+      "id": 7
+    },
+    {
+      "author": "Arturs",
+      "comment": "Hi , thanks",
+      "postId": "3",
+      "id": 8
+    },
+    {
+      "author": "elina",
+      "comment": "super",
+      "postId": "6",
+      "id": 9
+    }
+  ]
+}
